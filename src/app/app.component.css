@@ -1,0 +1,11 @@
+.aging label {
+    font-weight: 600;
+    color: #967b7b;
+}
+
+.card-columns {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
